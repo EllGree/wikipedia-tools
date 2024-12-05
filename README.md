@@ -2,6 +2,12 @@
 
 NestJS-based application for Wikipedia content processing and analysis.
 
+## Stack
+- Backend: NestJS
+- Database: PostgreSQL
+- Frontend: Task queue visualization
+- Plugins: Multiple LLM support
+
 ## Features
 - Wikipedia API integration with multiple language support
 - Plugin system for LLM integration (Claude, GPT-4, Gemini, etc.)
@@ -20,4 +26,3 @@ NestJS-based application for Wikipedia content processing and analysis.
 - PostgreSQL database
 - Test-driven development
 - Modular plugin architecture
-- 
